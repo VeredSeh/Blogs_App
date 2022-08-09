@@ -1,0 +1,26 @@
+.postGeneral {
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+.postImage {
+    width: 684px;
+    height: 342px;
+    margin-bottom: 20px;
+}
+
+.postTitle{
+    color: #000;
+    margin-bottom: 12px;
+    font-size: 30px;
+    font-weight: inherit;
+}
+
+.postDate{
+    margin-bottom: 16px;
+    font-size: 18px;
+}
+
+.UserImg{
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+}
